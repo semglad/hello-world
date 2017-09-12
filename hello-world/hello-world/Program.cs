@@ -8,7 +8,7 @@ namespace hello_world
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Press Any key to continue...");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
